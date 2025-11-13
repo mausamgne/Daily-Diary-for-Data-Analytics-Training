@@ -1,0 +1,24 @@
+🗓️ Day 8 – Data Modeling & Relationships
+
+Topics Covered:
+
+Introduction to Data Modeling and Star Schema concept.
+
+Understood difference between Fact Table (e.g., Sales data) and Dimension Tables (e.g., Outlet info, Item info).
+
+Learned to create relationships between tables using primary and foreign keys.
+
+Used Model View to visualize table connections.
+
+Discussed Normalization and Denormalization in data design.
+
+Practical Work:
+
+Created relationships between Item and Outlet tables using Outlet_ID as key.
+
+Checked “Cross Filter Direction” and “Cardinality” settings.
+
+Ensured data integrity for correct aggregation in visuals.
+
+Learning Outcome:
+Learned to build structured data models in Power BI and connect multiple tables logically to enable accurate reporting.
