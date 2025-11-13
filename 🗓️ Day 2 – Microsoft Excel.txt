@@ -1,0 +1,30 @@
+🗓️ Day 2 – Microsoft Excel for Data Analysis
+
+Topics Covered:
+
+Learned about Excel interface and data organization techniques.
+
+Studied various data types and cell formatting.
+
+Explored Formulas and Functions for data analysis:
+
+SUM(), AVERAGE(), COUNT(), MIN(), MAX()
+
+Conditional functions like IF(), AND(), OR()
+
+Lookup functions: VLOOKUP, HLOOKUP, and INDEX-MATCH.
+
+Worked on data sorting and filtering, conditional formatting, and data validation.
+
+Learned to create Pivot Tables and Pivot Charts for summarizing data.
+
+Practical Work:
+
+Analyzed a small sales dataset using Excel.
+
+Created pivot tables to show total sales by item type and outlet size.
+
+Applied conditional formatting to highlight high and low sales.
+
+Learning Outcome:
+Learned to clean, summarize, and visualize data in Excel using formulas and pivot tables — building a strong foundation for analysis.
