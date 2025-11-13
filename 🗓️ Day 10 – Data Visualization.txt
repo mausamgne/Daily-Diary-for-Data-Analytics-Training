@@ -1,0 +1,32 @@
+🗓️ Day 10 – Data Visualization & Dashboard Layout Design
+
+Topics Covered:
+
+Principles of effective data visualization:
+
+Simplicity, Clarity, Consistency, and Interactivity.
+
+Learned about different Power BI visualizations:
+
+Cards, Bar Charts, Line Charts, Pie Charts, Donut Charts, Slicers, Maps.
+
+Discussed color themes and formatting to maintain visual appeal.
+
+Learned how to use slicers for filtering data by outlet size, location, and item type.
+
+Practical Work:
+
+Created basic visualizations for Blinkit Dashboard:
+
+Card visuals for KPIs (Total Sales, Avg. Sales, No. of Items, Avg. Rating).
+
+Bar chart showing Average Sales by Item Type.
+
+Donut chart showing Total Sales by Outlet Size.
+
+Line chart showing Sales trend by Establishment Year.
+
+Added slicers for Outlet Location and Outlet Size to make the dashboard interactive.
+
+Learning Outcome:
+Developed the ability to design visually appealing and interactive dashboards in Power BI to represent data insights effectively.
