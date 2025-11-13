@@ -1,0 +1,30 @@
+🗓️ Day 3 – SQL for Data Extraction
+
+Topics Covered:
+
+Introduction to SQL (Structured Query Language).
+
+Understood Database Management Systems (DBMS) concepts: tables, rows, columns, and relationships.
+
+Learned SQL Commands:
+
+DDL (Data Definition Language): CREATE, ALTER, DROP
+
+DML (Data Manipulation Language): SELECT, INSERT, UPDATE, DELETE
+
+DCL (Data Control Language): GRANT, REVOKE
+
+Learned to filter and sort data using WHERE, ORDER BY, and LIMIT.
+
+Studied aggregate functions: SUM(), AVG(), COUNT(), MIN(), MAX().
+
+Understood GROUP BY and HAVING clauses for grouped analysis.
+
+Practical Work:
+
+Wrote queries to find total sales by outlet size and average rating by item type.
+
+Created a simple database table for Blinkit-like data (Item, Outlet, Sales, Rating).
+
+Learning Outcome:
+Gained the ability to extract and manipulate relevant data from databases using SQL queries, essential for data-driven decision-making.
