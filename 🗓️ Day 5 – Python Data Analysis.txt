@@ -1,0 +1,32 @@
+🗓️ Day 5 – Python Data Analysis & Visualization
+
+Topics Covered:
+
+Explored data analysis using Pandas:
+
+Grouping data: df.groupby('Outlet_Size')['Sales'].sum()
+
+Filtering and sorting using conditions.
+
+Learned data visualization using Matplotlib and Seaborn:
+
+Bar charts, line charts, and pie charts.
+
+Customized labels, titles, and colors.
+
+Introduction to Exploratory Data Analysis (EDA):
+
+Understanding trends, patterns, and outliers in data.
+
+Learned about correlation and basic statistics for data interpretation.
+
+Practical Work:
+
+Visualized total sales by outlet type and item type using bar charts.
+
+Drew correlation heatmap for numeric columns (Sales, Rating, Visibility).
+
+Summarized findings and exported cleaned dataset for use in Power BI.
+
+Learning Outcome:
+Developed practical data visualization skills and performed exploratory data analysis to extract insights using Python.
