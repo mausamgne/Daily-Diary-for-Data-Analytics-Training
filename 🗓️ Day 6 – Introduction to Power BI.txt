@@ -1,0 +1,34 @@
+🗓️ Day 6 – Introduction to Power BI
+
+Topics Covered:
+
+Introduction to Power BI and its role in Business Intelligence (BI).
+
+Understood Power BI components:
+
+Power BI Desktop
+
+Power Query
+
+Power BI Service (Cloud)
+
+Power BI Mobile
+
+Learned about connecting data sources: Excel, CSV, SQL Server, and Web Data.
+
+Explored the Power BI interface:
+
+Home tab, Data view, Model view, Report view.
+
+Discussed advantages of Power BI over Excel dashboards.
+
+Practical Work:
+
+Installed Power BI Desktop and connected the Blinkit dataset (CSV file).
+
+Explored data fields like Item Type, Outlet Size, Sales, Rating, Visibility, etc.
+
+Created a simple table visualization showing item types and their sales.
+
+Learning Outcome:
+Understood the workflow of Power BI, its environment, and how to import data from various sources for analysis.
