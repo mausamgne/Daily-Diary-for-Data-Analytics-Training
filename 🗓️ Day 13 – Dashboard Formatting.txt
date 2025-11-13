@@ -1,0 +1,34 @@
+🗓️ Day 13 – Dashboard Formatting & Enhancement
+
+Topics Covered:
+
+Focused on dashboard design principles for a professional look.
+
+Worked on alignment, background color, font consistency, and spacing.
+
+Learned to use themes and templates for visual consistency.
+
+Added Blinkit branding (logo and yellow theme) for presentation.
+
+Enhanced user interactivity using:
+
+Buttons and Bookmarks for navigation.
+
+Tooltips for additional context on hover.
+
+Drill-through pages for detailed item analysis.
+
+Practical Work:
+
+Finalized layout:
+
+Left panel for filters (Outlet Location, Outlet Size).
+
+Top section for KPI cards.
+
+Middle and right sections for charts (Sales trend, Item types, Outlet type, etc.).
+
+Optimized dashboard performance by removing unused visuals.
+
+Learning Outcome:
+Gained experience in designing interactive, user-friendly dashboards that maintain both functionality and aesthetic appeal.
