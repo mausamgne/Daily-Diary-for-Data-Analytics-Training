@@ -1,0 +1,36 @@
+🗓️ Day 4 – Python for Data Analytics (Basics)
+
+Topics Covered:
+
+Introduction to Python programming and its use in Data Analytics.
+
+Learned Python basics: variables, data types, loops, and conditionals.
+
+Installed and explored Jupyter Notebook environment.
+
+Introduction to major data analysis libraries:
+
+NumPy – numerical operations
+
+Pandas – data manipulation and cleaning
+
+Matplotlib / Seaborn – data visualization
+
+Learned to load and explore datasets using Pandas:
+
+pd.read_csv()
+
+df.head(), df.info(), df.describe()
+
+Handling missing values with df.dropna() and df.fillna()
+
+Practical Work:
+
+Imported Blinkit dataset into Jupyter Notebook.
+
+Cleaned dataset by removing null values and checking datatypes.
+
+Created basic data summaries using Pandas.
+
+Learning Outcome:
+Understood Python’s role in automating and simplifying data cleaning and exploratory analysis tasks.
