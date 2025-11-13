@@ -1,0 +1,32 @@
+🗓️ Day 12 – Data Insights & Interpretation
+
+Topics Covered:
+
+Learned how to interpret visual data to generate actionable business insights.
+
+Discussed how data analytics supports decision-making in retail businesses like Blinkit.
+
+Identified performance patterns and trends across categories.
+
+Insights from Blinkit Dashboard:
+
+Tier 2 outlets generated the highest total sales ($84.61K).
+
+High outlet size stores performed significantly better than medium and small.
+
+Breakfast, Seafood, and Canned items had the highest average sales.
+
+Average rating across all outlets stood at 3.9, indicating moderate customer satisfaction.
+
+Sales showed consistent growth from 2015 to 2020.
+
+Practical Work:
+
+Created summary visuals to present insights effectively.
+
+Designed tooltips and data labels to make visuals more informative.
+
+Wrote a short data insight report summarizing key findings.
+
+Learning Outcome:
+Learned how to extract and communicate meaningful insights from data visualizations, a vital skill for real-world analytics roles.
