@@ -1,0 +1,32 @@
+🗓️ Day 11 – Advanced DAX & KPI Development
+
+Topics Covered:
+
+Learned advanced DAX functions for creating more insightful calculations.
+
+Studied and practiced:
+
+CALCULATE() – for conditional calculations.
+
+FILTER() – to apply custom filters within measures.
+
+ALL() and REMOVEFILTERS() – to ignore slicers when needed.
+
+Time Intelligence Functions like DATEADD() and TOTALYTD() (for trend analysis).
+
+Created dynamic KPIs to analyze sales growth and item visibility.
+
+Practical Work:
+
+Developed new measures:
+
+Sales Growth % = DIVIDE([Total Sales] - PREVIOUSYEAR([Total Sales]), PREVIOUSYEAR([Total Sales]))
+
+Average Item Visibility = AVERAGE(Item_Visibility)
+
+Combined multiple measures into a summary table for better comparison.
+
+Verified accuracy of all measures using cross-checks with raw data.
+
+Learning Outcome:
+Understood how to write and apply advanced DAX expressions to derive deeper insights, such as growth analysis and visibility patterns, essential for professional Power BI reporting.
