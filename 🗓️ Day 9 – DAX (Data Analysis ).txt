@@ -1,0 +1,38 @@
+🗓️ Day 9 – DAX (Data Analysis Expressions) & Calculations
+
+Topics Covered:
+
+Introduction to DAX (Data Analysis Expressions) used for creating custom calculations in Power BI.
+
+Learned about:
+
+Calculated Columns – for row-level operations.
+
+Measures – for aggregated calculations.
+
+Practiced common DAX functions:
+
+SUM(), AVERAGE(), COUNT(), DISTINCTCOUNT()
+
+CALCULATE(), FILTER(), IF()
+
+Created Key Performance Indicators (KPIs):
+
+Total Sales = SUM(Sales)
+
+Average of Sales = AVERAGE(Sales)
+
+Number of Items = COUNT(Item_Identifier)
+
+Average Rating = AVERAGE(Rating)
+
+Practical Work:
+
+Implemented all DAX measures in the Blinkit dataset.
+
+Displayed DAX measures using KPI cards in Power BI dashboard.
+
+Compared calculated values to dataset totals for validation.
+
+Learning Outcome:
+Understood the power of DAX for dynamic calculations and learned how to use measures for creating performance indicators in dashboards.s
