@@ -1,0 +1,40 @@
+🗓️ Day 1 – Introduction to Data Analytics & Tools Overview
+
+Topics Covered:
+
+Introduction to Data Analytics and its applications in various industries.
+
+Understood the difference between Data Science, Data Analytics, and Machine Learning.
+
+Discussed the Data Analytics workflow:
+
+Data Collection
+
+Data Cleaning
+
+Data Analysis
+
+Data Visualization
+
+Decision Making
+
+Overview of popular Data Analytics tools:
+
+Microsoft Excel – basic data handling and analysis.
+
+SQL – managing and querying databases.
+
+Python – data analysis, visualization, and automation.
+
+Power BI – dashboard creation and reporting.
+
+Learned about different types of data: structured, semi-structured, and unstructured.
+
+Practical Work:
+
+Installed Excel, SQL (MySQL / PostgreSQL), Python (with Jupyter Notebook), and Power BI.
+
+Explored datasets to understand data formats (CSV, Excel, JSON).
+
+Learning Outcome:
+Gained a clear understanding of what Data Analytics is, the importance of data-driven decisions, and tools used in this field.
