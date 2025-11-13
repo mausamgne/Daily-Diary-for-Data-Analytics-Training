@@ -1,0 +1,30 @@
+🗓️ Day 7 – Data Cleaning & Transformation in Power Query
+
+Topics Covered:
+
+Introduction to Power Query Editor and its features.
+
+Performed data cleaning and transformation operations:
+
+Removed unnecessary columns.
+
+Changed column names for better readability.
+
+Converted data types (e.g., Sales to currency, Ratings to decimal).
+
+Handled missing and null values.
+
+Learned about applying transformations using “Applied Steps” in Power Query.
+
+Discussed importance of ETL (Extract, Transform, Load) in data preparation.
+
+Practical Work:
+
+Cleaned the Blinkit dataset in Power Query.
+
+Replaced missing outlet sizes and categorized outlet locations (Tier 1, 2, 3).
+
+Loaded the cleaned data into Power BI report view for visualization.
+
+Learning Outcome:
+Developed skills to clean and transform raw data efficiently in Power BI, ensuring data accuracy and consistency for visualization.
