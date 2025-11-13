@@ -1,0 +1,28 @@
+🗓️ Day 14 – Final Project Compilation (Blinkit Dashboard)
+
+Topics Covered:
+
+Completed Blinkit Sales Dashboard combining all previous learning stages.
+
+Verified DAX measures and relationships to ensure data accuracy.
+
+Summarized dashboard sections:
+
+KPI Cards: Total Sales, Average Sales, Number of Items, Average Rating.
+
+Charts: Line chart (yearly trend), Donut chart (outlet size), Bar chart (item type).
+
+Slicers: Outlet Location and Outlet Size for dynamic filtering.
+
+Prepared insights summary for final presentation.
+
+Practical Work:
+
+Tested dashboard interactivity with filters.
+
+Exported final report as .pbix file and Power BI PDF.
+
+Prepared project documentation with screenshots and interpretation.
+
+Learning Outcome:
+Successfully built a complete, interactive, and insightful business dashboard in Power BI, applying concepts of data cleaning, modeling, DAX, and visualization.
